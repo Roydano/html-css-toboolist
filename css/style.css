@@ -126,6 +126,27 @@ ul{
     text-align: center;
     line-height: 10px;
     vertical-align: middle;
+          
+}
+
+/* pulsanti elenco */
+
+.pulsante-id{
+    display: inline-block;
+    background-color: red;
+    border-radius: 15px;
+    height: 25px;
+    vertical-align: sub;
+    line-height: 25px;
+
+}
+
+.bt-text{
+    font-size: 9px;
+    vertical-align: top;
+    padding: 10px;
+    margin: 0 auto;
+    color: white;
     
-      
+
 }
