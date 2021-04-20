@@ -20,7 +20,7 @@ header{
 
 #logo{
 
-    
+
     line-height: 50px;
     vertical-align: middle;
 }
@@ -30,10 +30,43 @@ header{
     font-weight: bolder;
     line-height: 50px;
     vertical-align: middle;
-   
+
 }
 
 /* main */
 
+.sezione-add{
+
+    padding: 10px;
+    background-color: white;
+    margin: 50px auto;
+    width: 70%;
+    border-radius: 10px;
+
 
 }
+
+.pulsante{
+    border-radius: 4px;
+    padding: 5px 10px;
+    border: 0px;
+    cursor: pointer;
+    
+}
+
+.button-style{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.azzurro{
+    background-color: #47adf1;
+    color: white;
+}
+
+.bianco{
+    background-color: white;
+    color: lightgrey;
+    
+    
+} */
