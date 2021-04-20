@@ -85,7 +85,7 @@ header{
     margin: 10px auto;
     width: 70%;
     border-radius: 10px;
-    line-height: 1.6;
+    line-height: 200%;
 }
 
 ul{
@@ -105,6 +105,7 @@ ul{
     font-size: 20px;
     font-weight: bold;
     color: #444851;
+    margin-bottom: 20px;
 }
 
 .sottoelenco{
@@ -194,6 +195,6 @@ ul{
 }
 
 .y-color{
-    border-color: #b0c926;
+    background-color: #b0c926;
 
 }
