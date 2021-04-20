@@ -129,11 +129,30 @@ ul{
           
 }
 
+.secondari-x:before{
+    content: "\2715";
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #ff0000;
+    color: #ff0000;
+    border-radius: 50%;
+    padding: 2px;
+    font-size: 8px;
+    text-align: center;
+    line-height: 10px;
+    vertical-align: middle;
+          
+}
+
+
+
+
 /* pulsanti elenco */
 
 .pulsante-id{
     display: inline-block;
-    background-color: red;
     border-radius: 15px;
     height: 25px;
     vertical-align: sub;
@@ -148,5 +167,33 @@ ul{
     margin: 0 auto;
     color: white;
     
+
+}
+
+/* colori pulsanti elenco */
+
+.b-color{
+    background-color: #47adf1;
+}
+
+.p-color{
+    background-color: #9c72e4;
+}
+
+.g-color{
+    background-color: #64c0a9;
+}
+
+.o-color{
+    background-color: #f29e33;
+}
+
+.pink-color{
+    background-color: #d863a1;
+
+}
+
+.y-color{
+    border-color: #b0c926;
 
 }
