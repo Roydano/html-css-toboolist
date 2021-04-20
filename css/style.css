@@ -1,0 +1,32 @@
+*{box-sizing: border-box;
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(221, 220, 220);
+    margin: 0 auto;
+
+}
+
+header{
+    background-color: white;
+    padding: 5px;
+}
+
+#logo{
+
+    
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+#title-logo{
+    font-size: 35px;
+    font-weight: bolder;
+    line-height: 50px;
+    vertical-align: middle;
+    
+
+
+}
