@@ -35,11 +35,13 @@ header{
 
 /* main */
 
+/* pulsanti aggiunta task e section */
+
 .sezione-add{
 
     padding: 10px;
     background-color: white;
-    margin: 50px auto;
+    margin: 50px auto 10px;
     width: 70%;
     border-radius: 10px;
 
@@ -72,4 +74,34 @@ header{
 
     
     
-} */
+}
+
+
+/* Lista */
+
+.elenco{
+    padding: 10px;
+    background-color: white;
+    margin: 10px auto;
+    width: 70%;
+    border-radius: 10px;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0px;
+
+}
+
+.principale:before{
+    content: ' \25BC';
+    font-size: 11px;
+    
+}
+
+
+.principale{
+    font-size: 20px;
+    font-weight: bold;
+    color: #444851;
+}
