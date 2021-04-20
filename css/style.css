@@ -49,7 +49,7 @@ header{
 .pulsante{
     border-radius: 4px;
     padding: 5px 10px;
-    border: 0px;
+    border: none;
     cursor: pointer;
     
 }
@@ -62,11 +62,14 @@ header{
 .azzurro{
     background-color: #47adf1;
     color: white;
+    border: 1px solid  #47adf1;
 }
 
 .bianco{
     background-color: white;
     color: lightgrey;
+    border: 1px solid  lightgrey;
+
     
     
 } */
